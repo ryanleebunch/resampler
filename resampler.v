@@ -3,6 +3,7 @@
 // Create FIFO with incoming samples
 // Adds broadband group delay to input and resamples on clk using
 // 4 point Lagrange Interpolation
+// See LICENSE file for licensing details
 
 `timescale 1fs/1fs
 
